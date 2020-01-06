@@ -5,12 +5,17 @@ image: /img/logo.svg
 heading: A design tool that makes Teamleader work smarter.
 subheading: A design tool that makes Teamleader work smarter.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Say what?
+  description: >-
+    Ahoy! is a UI pattern library that makes us build consistent, user-friendly
+    solutions for small SME's. We call it 'Ahoy!' because the kid needed a name
+    and it reflects the goal of this tool: guide anyone working on Teamleader
+    products.
+
+
+    It is the result of an effort to evovle from a disconnected product design
+    approach to a living pattern library that closes the loop between design and
+    development.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
