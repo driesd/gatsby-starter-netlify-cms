@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Ahoy
+title: Ahoy!
 image: /img/logo.svg
 heading: A design tool that makes Teamleader work smarter.
 subheading: A design tool that makes Teamleader work smarter.
