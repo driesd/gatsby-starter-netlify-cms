@@ -13,7 +13,7 @@ mainpitch:
     products.
 
 
-    It is the result of an effort to evovle from a disconnected product design
+    It is the result of an effort to evolve from a disconnected product design
     approach to a living pattern library that closes the loop between design and
     development.
 description: >-
