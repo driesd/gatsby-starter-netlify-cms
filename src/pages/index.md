@@ -72,5 +72,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+button: |-
+  ```
+  <Button label="I am a button" />
+  ```
 ---
 
